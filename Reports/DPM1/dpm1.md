@@ -86,6 +86,29 @@ We first came up with all the HMW we can think of and divided into three groups 
 3. Enable users to easily share their gym achievements on social media in a visually appealing manner
 ![Bragging](./storyboard_bragging.jpg)
 
+## Feedback & Iteration
+
+### Feedback Summary
+
+1. Need to distinguish 2 social factor.
+    - Public visibility
+    - Peer pressure by close relationship
+2. 'Hall of Shame' might discourage users.
+3. Need more specific features in order to differenciate from existing social computing services.
+4. Excessive external motivation might result in loss of internal motivation.
+
+### Agenda & Iteration
+
+1. Distinguishing and identifying two social factors(public visibility / peer pressure)
+
+ We discussed about how might we utilize different social factors for each user groups. Assuming that public visibility might only be effective for outgoing users, while peer pressure seems to be working for most people, we are considering to provide options for visibility scope.
+
+2. Revising 'Hall of Shame' that might discourage users
+
+ We examined on how to make leaderboard less humiliating and beneficial for long-term motivation. By not specifying the rank (or duration) and using nicknames on the ‘Hall of Shame’, we expect users not getting excessive negative pressure. Additional to that, we are considering to provide features such as poking the members on the Hall of Shame, to additionally motivate them rather than discouraging them.
+
+
+
 ## References
 
 - [1] KHEPI. 2015. https://www.khepi.or.kr/board/view%3FlinkId%3D501805%26menuId%3DMENU00907&ved=2ahUKEwitlvfUneOIAxUcrlYBHQRHAowQFnoECBMQAQ&usg=AOvVaw1884k_a9e28rJ5nBdaMdTc
