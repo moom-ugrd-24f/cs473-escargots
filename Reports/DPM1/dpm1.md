@@ -40,8 +40,8 @@ By [[2] Durau J, Diehl S, Terlutter R. Motivate me to exercise with you ](#refer
 ### Selection process
 
 <p align="middle">
-    <img src="./hmw_og.png" height="250"/>
-    <img src="./hmw_mod.png" height="250"/>
+    <img src="./images/hmw_og.png" height="250"/>
+    <img src="./images/hmw_mod.png" height="250"/>
 </p>
 
 We first came up with all the HMW we can think of and divided into three groups based on the broadness. Then we manipulated some HMWs that were too broad or narrow, ended up making 10 adequate HMWs. We voted for the good HMWs that each group member thought were good, discussed the HMWs that received the most votes, and ultimately selected 3 HMWs. In making our final decision, we considered the feasibility of implementation and their potential to genuinely motivate people to go to the gym.
@@ -78,13 +78,13 @@ We first came up with all the HMW we can think of and divided into three groups 
 ## Storyboards 
 
 1. Create a “Hall of Shame” leaderboard that highlights users with the worst attendance.
-![Hall of Shame](./storyboard_hall_of_shame.png)
+![Hall of Shame](./images/storyboard_hall_of_shame.png)
 
 2. Organize duels between users and establish group competitions
-![Duel](./storyboard_duel.png)
+![Duel](./images/storyboard_duel.png)
 
 3. Enable users to easily share their gym achievements on social media in a visually appealing manner
-![Bragging](./storyboard_bragging.jpg)
+![Bragging](./images/storyboard_bragging.jpg)
 
 ## Feedback & Iteration
 
