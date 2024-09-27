@@ -32,8 +32,10 @@ By [Durau J, Diehl S, Terlutter R. Motivate me to exercise with you](#references
 3. HMW encourage users to make their friends be part of the community?
 
 ### Selection process
-<img src="./hmw_og.png" alt="drawing" height="200"/>
-<img src="./hmw_mod.png" alt="drawing" height="200"/>
+<p align="middle">
+    <img src="./hmw_og.png" height="250"/>
+    <img src="./hmw_mod.png" height="250"/>
+</p>
 
 We first came up with all the HMW we can think of and divided into three groups based on the broadness. Then we manipulated some HMWs that were too broad or narrow, ended up making 10 adequate HMWs. We voted for the good HMWs that each group member thought were good, discussed the HMWs that received the most votes, and ultimately selected 3 HMWs. In making our final decision, we considered the feasibility of implementation and their potential to genuinely motivate people to go to the gym.
 
