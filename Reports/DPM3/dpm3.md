@@ -31,13 +31,13 @@ Many gym members struggle to consistently attend the gym on their own since self
     - View the weekly XP leaderboard to see how you rank against other users.
     - Knowing shame posting will award you with XP, you decide to shame post your friend. Use the app's provided Instagram story template to call them out and motivate them to step up their game.
 
-### Summary
-
- Our solution is an application that allows people to poke friends and others to motivate them to go to the gym. It can be a simple push notification or a post shared on social networks. The application also includes a weekly ranking leaderboard based on an XP system related to the app’s usage and the user’s consistency. By using peer pressure and gamification, this app will motivate people to go to the gym, either to avoid being exposed on social networks or to improve their ranking on the app. 
-
 ## Prototype
 
 [Figma Prototype Link](https://www.figma.com/proto/mg2MCKneUDZbem3kiG4JZy/Pokemon?node-id=75-587&starting-point-node-id=75:587&show-proto-sidebar=1&t=JIAIBdTlZkKcvw3E-1)
+
+### Summary
+
+ Our solution is an application that allows people to poke friends and others to motivate them to go to the gym. It can be a simple push notification or a post shared on social networks. The application also includes a weekly ranking leaderboard based on an XP system related to the app’s usage and the user’s consistency. By using peer pressure and gamification, this app will motivate people to go to the gym, either to avoid being exposed on social networks or to improve their ranking on the app.
 
 
 ### Design choices
